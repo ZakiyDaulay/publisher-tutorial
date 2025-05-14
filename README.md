@@ -14,3 +14,9 @@ localhost indicates that the broker is running on the same machine as the progra
 
 ## Consoles After Running Both Publisher and Subcriber ##
 ![RabbitMQ Dashboard](images/image2.png)
+
+## Chart Activity After Running Publisher Multiple Times ##
+![RabbitMQ Dashboard](images/image3.png)
+
+The spikes in the chart show that the publisher is sending messages to the RabbitMQ server.
+Every spike represents the message being sent overtime. 
