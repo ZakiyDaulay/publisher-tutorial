@@ -11,3 +11,6 @@ localhost indicates that the broker is running on the same machine as the progra
 
 ## RabbitMQ Dashboard ##
 ![RabbitMQ Dashboard](images/image1.png)
+
+## Consoles After Running Both Publisher and Subcriber ##
+![RabbitMQ Dashboard](images/image2.png)
