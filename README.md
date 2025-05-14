@@ -7,4 +7,7 @@ Each message is a UserCreatedEventMessage containing two string fields: user_id 
 
 The URL used in both the publisher and subscriber programs is the connection string to the RabbitMQ message broker. 
 The first guest is the username, and the second guest is the password for authentication. 
-localhost indicates that the broker is running on the same machine as the program, and 5672 is the default port used by the AMQP protocol. 
+localhost indicates that the broker is running on the same machine as the program, and 5672 is the default port used by the AMQP protocol.
+
+## RabbitMQ Dashboard ##
+![RabbitMQ Dashboard](images/image1.png)
